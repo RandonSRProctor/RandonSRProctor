@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Randy! 👋
 
-<!--
-**RandonSRProctor/RandonSRProctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My life is at it's best when it contains:
+- 💻  Code 
+- 🎸  Music
+- 🥂  Good Company 
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I have experience with:
+
+- Javascript: Vue.js, React, Node.js, Express, ES6
+- Java: Android, Apache Tomcat
+- DB: Postgres, SQL, MongoDB
+- Style: CSS5, Sass
+
+<br />
+
+### I love to learn, and I love to talk shop any time.  Feel free to contact me at any time.
+
+<br />
+
+- 🌱 I’m currently learning React
+- 🐶 My pet project is a water physics engine
+- 💬 Ask me about anything tech related; I love to learn
+- 📫 How to reach me: RandyProctor@Gmail.com
+- 😄 Pronouns: he/him/his
