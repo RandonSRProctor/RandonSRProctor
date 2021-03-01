@@ -1,18 +1,18 @@
 # Hi, I'm Randy! 👋
 
-### My life is at it's best when it contains:
-- 💻  Code 
-- 🎸  Music
-- 🥂  Good Company 
-
-<br />
-
 ### I have experience with:
 
 - Javascript: Vue.js, React, Node.js, Express, ES6
 - Java: Android, Apache Tomcat
 - DB: Postgres, SQL, MongoDB
 - Style: CSS5, Sass
+
+<br />
+
+### My life is at it's best when it contains:
+- 💻  Code 
+- 🎸  Music
+- 🥂  Good Company 
 
 <br />
 
