@@ -7,21 +7,28 @@
 - DB: Postgres, SQL, MongoDB
 - Style: CSS5, Sass
 
-<br />
 
 ### My life is at it's best when it contains:
 - 💻  Code 
 - 🎸  Music
 - 🥂  Good Company 
 
-<br />
 
-### I love to learn, and I love to talk shop any time.  Feel free to contact me at any time.
+### I love to learn.  Here's what I'm up to lately:
 
-<br />
 
 - 🌱 I’m currently learning React
+- 🛠 I'm about to fix-up my personal website: www.randyproctor.net
 - 🐶 My pet project is a water physics engine
-- 💬 Ask me about anything tech related; I love to learn
+- 💬 I love to talk shop contact me at any time.
 - 📫 How to reach me: RandyProctor@Gmail.com
-- 😄 Pronouns: he/him/his
+
+### More about me:
+
+- I love dogs.
+- My dog is named Nigel and he sits under my desk while I code.
+- I used to be a rock musician.  I toured EU and US multiple times.
+- I love cooking, and I love wine.
+- My family is filled with teachers, public speakers, and musicians.
+- I love to travel by car with my fiance all around the country.
+- Pronouns: he/him/his.
