@@ -6,6 +6,7 @@
 - Java: Android, Apache Tomcat
 - DB: Postgres, SQL, MongoDB
 - Style: CSS5, Sass
+- General: Git, Webpack, Babel
 
 
 ### My life is at it's best when it contains:
