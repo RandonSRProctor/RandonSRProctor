@@ -9,7 +9,7 @@
 - General: Git, Webpack, Babel
 
 
-### My life is at it's best when it contains:
+### My life is at its best when it contains:
 - 💻  Code 
 - 🎸  Music
 - 🥂  Good Company 
