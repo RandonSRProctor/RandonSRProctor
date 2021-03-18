@@ -5,7 +5,7 @@
 - Javascript: Vue.js, React, Node.js, Express, ES6
 - Java: Android, Apache Tomcat
 - DB: Postgres, SQL, MongoDB
-- Style: CSS5, Sass
+- Style: CSS3, SCSS
 - General: Git, Webpack, Babel
 
 
